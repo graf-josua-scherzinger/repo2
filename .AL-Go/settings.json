@@ -1,4 +1,7 @@
 {
+  "useCompilerFolder": true,
+  "doNotPublishApps": true,
+  "artifact": "//*//first",
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.1/.Modules/settings.schema.json",
   "country": "us",
   "appFolders": [],
