@@ -1,5 +1,8 @@
 {
-  "country": "us",
+  "useCompilerFolder": true,
+  "doNotPublishApps": true,
+  "country": "w1",
   "appFolders": [],
-  "testFolders": []
+  "testFolders": [],
+  "artifact": "bcartifacts/sandbox/22.0.54157.55210/w1/closest"
 }
