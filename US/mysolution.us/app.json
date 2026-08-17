@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "6fd9d25c-baa3-4de7-875b-f5aac3459390",
+      "name": "mysolution.w1",
+      "publisher": "GRAF Holding GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
